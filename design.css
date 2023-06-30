@@ -1,0 +1,254 @@
+ .room{
+   display: flex;
+   
+   margin-left: 30px;
+   
+ }
+ .wall1{
+    height: 400px;
+    width: 150px;
+border: 2px solid black;
+background-color: white;
+ }
+ .roof{
+   height:400px;
+   width: 800px;
+border: 2px solid black;
+   
+ }
+ .wall2{
+   height: 400px;
+    width: 150px;
+border: 2px solid black;
+background-color: white;
+ }
+ .wall3{
+    height: 80px;
+    width: 800px;
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-left: 184px;
+    background-color: white;
+  }
+  .wall4{
+   height: 80px;
+   width: 800px;
+   border: 7px solid black;
+   margin-left: 184px;
+   background-color: white;
+  }
+   
+ 
+  .roof{
+
+  }
+   .lights{
+      display: flex;
+       align-items: center;
+       background-color: white;
+   }
+   .vent{
+      display:flex;
+      background-color: white;
+   }
+  .l1,.l2,.l3,.l4,.v1,.v2,.v3,.v4{
+   width: 200px;
+   height:100px;
+   border: 1px solid black;
+   
+  }
+  .v5,.v6,.v7,.v8{
+   width: 200px;
+   height: 97px;
+   border: 1px solid black;
+
+  }
+  .l11,.l22,.l33,.l44 {
+height: 30px;
+width:30px;
+border: 1px solid black;
+border-radius: 50%;
+margin-top: 30px;
+margin-left: 60px;
+background: yellow;
+  }
+  .v22,.v44{
+   width: 30px;
+   height:30px;
+border: 1px solid black;
+margin-top: 30px;
+margin-left: 60px;
+  }
+  .door{
+width: 70px;
+height: 40px;
+border: 2px solid black;
+ margin-top: 80px;
+ margin-left: 78px;
+ text-align: center;
+  }
+
+  .fan{
+width: 30px;
+height: 30px; 
+border-radius: 50%;
+border: 1px solid black;
+ float:right;
+ text-align: center;
+  }
+  .tvs{
+display: flex;
+margin-top: 150px;
+ 
+  }
+  .tv{
+  height: 70px;
+  width: 30px; 
+   border: 1px solid black;
+  margin-left: 50px;
+   text-align: center;
+  }
+  .stand{
+  width:70px;
+  height: 0px;
+    border: 1px solid black;
+   margin-top: 35px;
+  }
+    .window1{
+width:40px;
+height:40px;
+border: 3px solid black;
+margin-top: 100px;
+background-color: grey;
+    }
+   .window2{
+      width:40px;
+      height:40px;
+      border: 3px solid black;
+      background-color: grey;
+          }
+          .window3{
+            width:40px;
+      height:40px;
+      border: 3px solid black;
+      background-color: grey;
+          }
+      .ac{
+        height:20px ;
+        width: 20px;
+        border: 2px solid black;
+        text-align: center;
+        margin-top: 57px;
+        margin-left: 70px;
+      }
+      .on{
+        height:5px;
+        width: 5px;
+        border:0.5px solid black;
+        float:right;
+        margin-top: 15px;
+        background-color: red;
+      }body{
+        background-color: black;
+      }
+      .floor {
+
+        height: 619px;
+        width: 1030px;
+        border: 2px solid black;
+       background-color: white;
+       margin-left: 80px;
+      }
+      .tile1,.tile2,.tile3,.tile4,.tile5,.tile6{
+        display: flex;
+      
+      }
+      .tiles {
+        height: 100px;
+        width: 100px;
+        border: 2px solid black;
+        background-color: gray;
+      } 
+      .table{
+        width: 920px;
+        height: 200px;
+        background-color: white;
+        position: relative;
+  top: -618px;
+    left: 87px;
+    display: flex;
+      }
+      
+      
+      .support{
+        height: 100px;
+        width: 100px;
+        background-color: orange;
+      
+        
+      }
+      #s{
+  margin-top: 30px; 
+}
+#s1,#s2,#s3,#s4{
+  margin-left: 50px;
+  margin-top: 30px;
+}.pc1{
+  height: 50px;
+  width: 80px;
+  background-color: black;
+  position: relative;
+  top:-20px;
+  left: 15px;
+}
+.pc11{
+  height: 20px;
+  width: 70px;
+  background-color: black;
+  position: relative;
+  top:-10px;
+  left: 7px;
+  opacity: 75%;
+}
+.keyboard{
+  height: 20px;
+  width: 53px;
+  background-color: black;
+  position: relative;
+  left: 30px;
+  top: -20px;
+  
+  
+}
+.k1{
+display: flex;
+}
+.keys{
+  height: 4px;
+  width: 4px;
+  background-color: black;
+   color:white;
+   font-size: 6px;
+   text-align: center;
+   padding: 3px;
+
+}
+.pcstand{
+  height: 20px;
+  width: 0px;
+  border: 2px solid black;
+position: relative;
+left: 50px;
+top: -20px;
+
+}
+.tab{
+  width: 920px;
+        height: 200px;
+        background-color: white;
+        display: flex;
+        position: relative;
+        top: -508px;
+        left:87px;
+}
+ 
